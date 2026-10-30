@@ -212,8 +212,14 @@ LANGUAGE ~Simplified Chinese~ ~schinese~ ~bst/language/english/bst_install.tra~
 			   ~bst/language/english/bst_setup.tra~
 			   ~bst/language/schinese/bst_setup.tra~
 			   ~bst/language/schinese/bst_highlevel.tra~
-
-
+			   
+LANGUAGE ~Polish (by my_summertime, SoM Membress, part of CoB Clan)~
+				~polish~
+				~bst/language/polish/bst_install.tra~
+				~bst/language/english/bst_setup.tra~
+			    ~bst/language/polish/bst_setup.tra~
+			    ~bst/language/polish/bst_highlevel.tra~			   
+			   
 BEGIN @1000001
 DESIGNATED 0
 LABEL BS_BalduransSeatower-main

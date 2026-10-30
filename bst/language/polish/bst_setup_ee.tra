@@ -1,0 +1,670 @@
+/* Please note: This file contains lines from bst_setup.tra that differ for EE. Contains the different lines ONLY.*/
+@499 = ~Nawet lord czy dama miewają chwile, kiedy chcą po prostu zniknąć i nie być przez nikogo widzianymi – czy to by uniknąć nadmiernej uwagi motłochu, czy też uciec przed próbą zamachu. Właściciel tego pierścienia z pewnością nieraz słyszał słowa: „Nie mam pojęcia, dokąd poszedł, przed chwilą tu był”, gdy sam wymykał się niezauważony.
+
+PARAMETRY:
+
+Zdolności ładunków:
+– Ulepszona niewidzialność raz dziennie
+  Czas działania: 12 godzin
+  Obszar działania: rzucający
+
+Waga: 0~
+
+@501 = ~To klucz znaleziony przy kucharce w Wieży Nadmorskiej Baldurana. Otwiera on szopy w spiżarni kuchennej.
+
+Waga: 0~
+
+@503 = ~Worek gęsich piór podarowany ci przez pomocnika kucharza. Ma trafić do wieżowego podszypiornego, który zrobi z nich lotki do strzał.
+
+Waga: 0~
+
+@505 = ~Kufel piwa „Złoty Smok” uwarzonego przez kucharza w Wieży Nadmorskiej Baldurana. Wolałbyś raczej nie pamiętać, ile cię kosztował.
+
+Waga: 1~
+
+@507 = ~Wyjątkowo marna kopia oryginalnej i niezwykle sławnej procy „Zguba Smoków Arli”. Biorąc pod uwagę wszystko, przez co trzeba było przejść, aby ją zdobyć, wysiłek nie był tego wart – kopia jest tylko nieznacznie lepsza od zwykłej procy.
+
+PARAMETRY:
+
+Traki: +1
+Obrażenia: +1 (pociski)
+Opóźnienie: 3
+Rodzaj biegłości: Proca
+Typ: Jednoręczna
+Wymagania:
+– Siła: 3
+
+Waga: 0~
+
+@509 = ~Ta przepustka zapewni ci dostęp do więzienia w Wieży Nadmorskiej, które znajduje się w lochach. Wejście prowadzi schodami w dół w głównej wieży.
+
+Waga: 0~
+
+@511 = ~Ten zwój ma rzekomo otwierać ukryte drzwi do jakichś ruin w Kniei Ostrych Zębów.
+
+Waga: 0~
+@513 = ~Klucz Alguine'a otwiera zamknięte drzwi w Salach Przyszłych Wspomnień.
+
+Waga: 0~
+
+@515 = ~Ten klucz otwiera ukryte drzwi w katakumbach pod Wieżą Nadmorską Baldurana.
+
+Waga: 0~
+
+@517 = ~Klucz do mauzoleum w Wieży Chionthar. Katakumby Wieży Nadmorskiej znajdują się pod tą wieżą.
+
+Waga: 0~
+
+@519 = ~Głownię tego sztyletu wykonano z kości wyciętej z jakiegoś dawno martwego i zapomnianego potwora. Krawędź ostrza jest wciąż tak ostra, jak w dniu, w którym ją wyciosano – i przeklęta.
+
+Waga: 1~
+
+@521 = ~Ta oczerniona i osmalona czaszka przetrwała ogień, który powinien był ją unicestwić.
+
+Waga: 1~
+
+@523 = ~Ta świeca zawiera w sobie pojedyncze zaklęcie Życzenie. Zabierając ją, pozbawiłeś Czarodzieja jego ostatniej prośby.
+
+Waga: 1~
+
+@525 = ~Stworzenie, do którego należał niegdyś ten wysuszony szpon, nie żyło na tym planie egzystencji.
+
+Waga: 1~
+
+@527 = ~Gęsty, czerwony płyn porusza się złowrogo w butelce. Zabierając ją, pozbawiłeś Otrutego Człowieka życia.
+
+Waga: 1~
+
+@530 = ~Znalazłeś tę starą księgę zakopaną w dalekim kącie biblioteki Alguine'a. Możesz spróbować ją czytać, ale im więcej czytasz, tym mniej ma to sensu. Wydaje się, że większości tekstu... brakuje... a reszta wygląda na napisaną przez kogoś niewiele starszego od dziecka. Co gorsza, za każdym razem, gdy otwierasz księgę, strony ulegają zmianie.~
+
+@532  = ~To rysunek podarowany ci przez Larsa, osieroconego chłopca. Obrazek wykazuje lekkie podobieństwo do czegoś, co mogłoby być smokiem. Nie masz bladego pojęcia, do czego mógłby ci się przydać, ale jeśli go po prostu wyrzucisz, jakieś dziecko będzie bardzo smutne i gdzieś na świecie prawdopodobnie zginie kotek.
+
+Waga: 0~
+
+@534  = ~To klatka, którą dał ci karczmarz Roryn, abyś wyłapał wszystkie króliki z trzeciego piętra gospody w Wieży Nadmorskiej Baldurana.
+
+Waga: 5~
+
+@536  = ~To szczur złapany przez ciebie na drugim piętrze gospody w Wieży Nadmorskiej. Jest niezwykle tłusty, a na ogonie ma zawiązaną malutką, różową wstążeczkę z dokładnie napisanym imieniem „Betsy”.
+Szczur patrzy na ciebie, ale nie zdradza zamiaru ugryzienia.
+
+Waga: 1~
+@537  = ~To truchło szczura, którego zabiłeś na drugim piętrze gospody w Wieży Nadmorskiej. Wciąż widać malutką, różową wstążeczkę na jego ogonie, z dokładnie napisanym imieniem „Betsy”.
+
+Waga: 1~
+
+@539  = ~To dane kontaktowe handlarzy niewolników, które otrzymałeś od przemytników. Jest to reklama „wypraw po dzikie zwierzęta” organizowanych przez „Leonharda Srogiego”, którego można spotkać na trzecim piętrze gospody w Wieży Nadmorskiej. Z tyłu znajduje się odręczna notatka o treści: „pytaj o wycieczkę dla stworzeń wyjątkowych”.
+
+Waga: 0~
+
+@541  = ~Pudełko jest lekkie, a przy potrząsaniu w środku nic się nie porusza.
+
+Waga: 0~
+
+@543  = ~To notatki znalezione przy ciele „Leonharda Srogiego”, pośrednika handlarzy niewolników. Zawierają harmonogram różnych niewinnie brzmiących wypraw.
+Znajduje się tam jeden wpis z przyszłą datą, zatytułowany „Pościg za Stworzeniami Wyjątkowymi”.
+
+Waga: 0~
+
+@545  = ~[#73913 (BGII)]Ten pierścień to zwykła, niesrebrzona obrączka. Jednakże jej prosty wygląd kryje w sobie potężną magię. Pierścień Przeciwjadów jest chętnie poszukiwany przez monarchów, wpływowe osobistości polityczne i inne potencjalne cele zamachów.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Odporność na trucizny
+
+Waga: 0~
+
+@547  = ~[main text from #17520 BGII]Perły składają się z warstw aragonitu, odkładających się wokół ziarenka piasku lub innego ciała obcego wewnątrz małż i innych mięczaków. Powstała w ten sposób perła ma bogaty, głęboki połysk. Większość pereł w Krainach jest biała, istnieją jednak odmiany znacznie rzadsze, takie jak tęczowe czy czarne. Ta perła jest czarna – to wariant wysoko ceniony za swoje unikalne właściwości magiczne, szczególnie przez jasnowidzów.
+
+Ta perła została dopiero co wyjęta z muszli i lśni od morskiej wody.
+
+Waga: 0~
+
+@549  = ~Ten klucz otwiera zamknięte drzwi wewnątrz zakładu krawieckiego w Dzielnicy Portowej.
+
+Waga: 0~
+
+@551  = ~To coś, co mistrz Shizell nazwał „proszkiem na mimiki”. W rzeczywistości jest to płyn, a nie proszek, i skutecznie demaskuje sobowtórniaki, a nie mimiki.
+Flakon nie jest całkowicie zakorkowany i widać unoszące się z niego małe smóżki oparów. Flakonu należy użyć szybko, zanim jego skuteczność wygaśnie. Po zbliżeniu do sobowtórniaka opary – same w sobie nieszkodliwe – łączą się z zapachami Wieży Nadmorskiej i jej okolic w woń, która doprowadza sobowtórniaki do szału, zmuszając je do przybrania naturalnej formy i ataku.
+
+Waga: 0~
+
+@553  = ~To bardzo zakurzona butelka likieru ziołowego z jakiejś dalekiej gorzelni.
+Wygląda na butelkę, którą najlepiej bezpiecznie przechować, dopóki nie przekaże się jej odpowiedniemu koneserowi.
+
+Waga: 0~
+@555  = ~We flakonie nie ma już zawartości. Mikstura nie jest już skuteczna przeciwko sobowtórniakom.
+
+Waga: 0~
+
+@557  = ~Ten kwit skarbowy uprawnia okaziciela do odbioru sumy 3000 sztuk złota w Skarbcu Wieży Nadmorskiej.
+
+Waga: 0~
+
+@558  = ~Ten kwit skarbowy uprawnia okaziciela do odbioru sumy 5000 sztuk złota w Skarbcu Wieży Nadmorskiej.
+
+Waga: 0~
+
+@559  = ~Ten kwit skarbowy uprawnia okaziciela do odbioru sumy 20 000 sztuk złota w Skarbcu Wieży Nadmorskiej.
+
+Waga: 0~
+
+@561  = ~To wykwintnie wyglądająca butelka kalimszańskiego likieru śliwkowego.
+Wygląda na butelkę, którą najlepiej bezpiecznie przechować, dopóki nie przekaże się jej odpowiedniemu koneserowi.
+
+Waga: 1~
+
+@563  = ~To wykwintnie wyglądająca butelka amnijskiego likieru gorzkiego.
+Wygląda na butelkę, którą najlepiej bezpiecznie przechować, dopóki nie przekaże się jej odpowiedniemu koneserowi.
+
+Waga: 1~
+
+@564  = ~Ten kwit skarbowy uprawnia okaziciela do odbioru sumy 500 sztuk złota w Skarbcu Wieży Nadmorskiej.
+
+Waga: 0~
+
+@566  = ~To jest pusta beczka.
+
+Waga: 5~
+
+@568  = ~To jest beczka pełna wody.
+
+Waga: 20~
+
+@570  = ~Wnętrze tej beczki zostało pokryte ognioodporną warstwą przez wieżowego podszypiornego. Powinna utrzymać żywiołaka ognia przez co najmniej jeden dzień.
+
+Waga: 20~
+
+@572  = ~Uwięziłeś żywiołaka ognia ze spiżarni kuchennej wewnątrz tej beczki.
+Beczka jest lekko gorąca w dotyku, a od czasu do czasu słychać z niej ciche trzaskanie, jak z ogniska.
+
+Waga: 20~
+@574 = ~Kufel piwa „Złoty Smok” uwarzonego przez kucharza w Wieży Nadmorskiej Baldurana. Zdobycie go było nieco kłopotliwe, ale nalano ci go w jak najlepszych intencjach.
+
+PARAMETRY:
+
+Specjalne: Chroni przed strachem
+Zręczność: -2
+Czas działania: 15 tur
+
+Waga: 1~
+
+@576 = ~Gruczoł łojowy pozyskany od trolla morskiego. Nieustannie sączy się z niego galaretowata substancja, która podobno wyjątkowo dobrze chroni metal przed wodą.
+
+Waga: 1~
+
+@578 = ~To soczewka używana do skupiania promieni światła.
+
+Waga: 0~
+
+@580 = ~Ten kryształ jest okrągły jak soczewka, lecz całkowicie czarny i nieprzezroczysty.
+
+Waga: 0~
+
+@582 = ~[BG:EE #32739]Trolle to potworne drapieżniki, najbardziej znane z tego, że niezwykle trudno je zabić. Wszystkie trolle regenerują się, a większość z nich można uśmiercić jedynie przy użyciu ognia.
+
+Waga: 2~
+
+@584 = ~To flakon z wodą zdatną do picia.
+
+Waga: 0~
+
+@586 = ~Żywiołaki ognia przybywają z Planu Żywiołu Ognia, wykorzystując palące płomienie jako portale do przemierzania wymiarów. Pozbawione ognia, który podtrzymywałby ich wigor, szybko tracą siły. Dlatego też nieustannie szukają pożarów, które służą im jako przejścia do ich rodzinnego planu.
+
+Waga: 2~
+
+@591 = ~To wyglądają na osobiste notatki lorda Dluskera. Mówią o finansowych problemach rodziny i coraz bardziej gorączkowych próbach ich przezwyciężenia przez lorda.
+Ostatnia strona brzmi:
+„Mam teraz środki, by osobiście zapytać Aldaberta II o ukryty skarb! Pomyśleć, że kapłani żądali 1000 sztuk złota za jedno Rozmawianie ze Zmarłymi, podczas gdy ja zdobyłem Tymczasowe Wskrzeszenie za zaledwie 200!
+Nie mogę się doczekać, by zobaczyć minę Margot, gdy powiem jej o skrzyni ze skarbem w naszym domu! Na razie jej nie powiem, zbyt mocno bałaby się, że odprawiam taki rytuał.
+Mnisi zapewniali nas, że mauzoleum jest bezpieczne, pomimo wzmożonej aktywności nieumarłych w katakumbach. I tak nie planowałem tam iść, więc nie widzę problemu. Poza tym mam magiczny naszyjnik mojego dziadka, który ochroni mnie przed wszelką nieudaną magią.
+Ostrzeżenie mnichów będzie jednak idealną wymówką, by Margot zaczekała na zewnątrz, dzięki czemu nie będzie się martwić (i, z ręką na sercu, powstrzyma ją to również przed wtrącaniem się)”.
+
+Waga: 0~
+@593 = ~To zwój pokryty kilkoma symbolami.
+Choć nie jesteś w stanie go odczytać, wydaje się gotowy do użycia przez każdego, kto trzyma go w dłoni.
+
+Waga: 0~
+
+@595 = ~To martwy szczur. Wygląda na zaskakująco nienaruszonego i został umieszczony tak, abyś *musiał* go znaleźć.
+
+Waga: 1~
+
+@597 = ~Ten pierścień nie wygląda na nic szczególnego, ale jest wyraźnie nasycony magią. Widnieje na nim subtelny grawerunek o treści: „Dla A. z miłością”. Znalazłeś ten pierścień przy jednych ze zwłok pod zakładem krawieckim.
+
+Waga: 0~
+
+@598 = ~Ten pierścień nie wygląda na nic szczególnego, ale widnieje na nim subtelny grawerunek o treści: „Dla A. z miłością”. Znalazłeś go przy jednych ze zwłok pod zakładem krawieckim.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Punkty życia: +4
+
+Waga: 0~
+
+@600 = ~Ten pierścień został kunsztownie wykonany z zielonego metalu i ozdobiony cennym klejnotem. Znalazłeś go przy jednych ze zwłok pod zakładem krawieckim.
+
+Waga: 0~
+
+@601 = ~Ten pierścień został kunsztownie wykonany z zielonego metalu i ozdobiony cennym klejnotem. Znalazłeś go przy jednych ze zwłok pod zakładem krawieckim.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Odporność na kwas ustalona na 100%
+
+Waga: 0~
+
+@603 = ~Choć fakt, że pierścień został urzeczony właściwością poprawiającą umiejętności władania bronią, może wydawać się niezwykły, idealnie wpisuje się on w realia szlachetnych dam i lordów, którzy nie chcą chodzić w ciężkich pancerzach, a mimo to mają powody, by zwiększyć swoje zdolności obronne – być może nawet bez wiedzy potencjalnych napastników.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Traki: +1
+
+Waga: 0~
+
+@605 = ~Ten pierścień wygląda na zwykłą złotą obrączkę, lecz bez wątpienia tli się w nim potężna magia. Widnieje na nim grawerunek o treści: „Dla <CHARNAME> w dowód wdzięczności”. Otrzymałeś go jako spóźniony wyraz uznania od kilku wdzięcznych rodzin patrycjuszy z Wrót Baldura za twoją pomoc w walce z inwazją sobowtórniaków.
+
+Waga: 0~
+@606 = ~Ten pierścień wygląda na zwykłą złotą obrączkę, lecz bez wątpienia tli się w nim potężna magia. Widnieje na nim grawerunek o treści: „Dla <CHARNAME> w dowód wdzięczności”. Otrzymałeś go jako spóźniony wyraz uznania od kilku wdzięcznych rodzin patrycjuszy z Wrót Baldura za twoją pomoc w walce z inwazją sobowtórniaków.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Zwiększa Charyzmę noszącego do 18
+– Noszący regeneruje 1 punkt życia co 5 rund
+
+Waga: 0~
+@607 = ~Ten pierścień wygląda na zwykłą złotą obrączkę, lecz bez wątpienia tli się w nim potężna magia. Widnieje na nim grawerunek o treści: „Dla <CHARNAME> w dowód wdzięczności”. Otrzymałeś go jako spóźniony wyraz uznania od kilku wdzięcznych rodzin patrycjuszy z Wrót Baldura za twoją pomoc w walce z inwazją sobowtórniaków.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Charyzma: +1
+– Regeneracja 1 punktu życia co 5 rund
+
+Waga: 0~
+
+@610 = ~To list miłosny od kogoś o imieniu Ivonne do kogoś o imieniu Balduin. Pachnie różami.
+
+Waga: 0~
+@611 = ~To list miłosny od Balduina do Ivonne. Jest podpisany dwoma przeplatającymi się sercami.
+
+Waga: 0~
+@612 = ~To kolejny list miłosny od Ivonne do Balduina. Dziękuje mu wylewnie za ładny rysunek.
+
+Waga: 0~
+@613 = ~Drogi nieznany czytelniku,
+
+Zauważyliśmy, że ktoś czyta naszą ukrytą korespondencję. Przenieśliśmy nasze sekretne miejsce gdzie indziej.
+
+Niemniej jednak składamy ci szczere podziękowania za to, że nie zakłóciłeś naszej komunikacji. Przyjmij to jako wyraz naszego uznania.
+
+Balduin i Ivonne
+
+Waga: 0~
+
+@615 = ~Ta relikwia to ząb Iakhovasa, dawnego kochanka Umberlee. Został przywieziony przez Baldurana z jego morskich podróży. Plotka głosi, że wszedł w jego posiadanie, gdy jego statek został zaatakowany przez sahuaginów.
+Podarował go Świątyni Umberlee, aby zyskać przychylność bogini dla dalszych przedsięwzięć oraz nowo ufortyfikowanego miasta Wrota Baldura.
+Ząb jest świętością dla tutejszej świątyni.~
+@617  = ~Ta wysadzana klejnotami opaska już sama w sobie przyciągałaby mnóstwo uwagi, lecz nosi subtelne urzeczenie, które sprawia, że postronni widzą jej właściciela w niezwykle pozytywnym świetle, postrzegając <PRO_HIMHER> jako wielkiego przywódcę lub godny zaufania autorytet.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Charyzma: ustalona na 18
+
+Waga: 1~
+
+@619  = ~Ta niewielka broń została błogosławiona przez Selûne, Dziewicę z Księżyca, i jako taka posiada specjalne moce przeciwko likantropom, na które wpływa czyste, srebrne światło księżyca.
+
+PARAMETRY:
+
+Zdolności bojowe:
+– Po rzuceniu wraca do rąk właściciela
+– Może ranić istoty, które mogą zostać zranione tylko przez broń ze srebra
+
+Traki: +2, +4 przeciwko likantropom
+Obrażenia: 1k3+2, +4 przeciwko likantropom (pociski)
+Opóźnienie: 1
+Rodzaj biegłości: Strzałka
+Typ: Jednoręczna
+
+Waga: 0~
+
+@621  = ~Ta srebrzysta sfera posiada potężne czar odrzucenia, który chroni użytkownika przed ciosami w plecy.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Odporność na ciosy w plecy
+
+Waga: 2~
+
+@623  = ~Ten urzeczony długi łuk potrafi wystrzeliwać mordercze salwy strzał. Nie ma on znanej nazwy ani historii; wydaje się stosunkowo niedawno stworzonym przedmiotem, który nie miał jeszcze czasu zyskać prawdziwej sławy.
+
+PARAMETRY:
+
+Zdolności bojowe:
+– 1 dodatkowy atak na rundę
+
+Traki: +3
+Obrażenia: +2 (pociski)
+Opóźnienie: 5
+Rodzaj biegłości: Długi łuk
+Typ: Dwuręczna
+Wymagania:
+– Siła: 6
+
+Waga: 3~
+@625  = ~Ta błogosławiona zbroja została stworzona przez kapłanów Lathandera wyłącznie w celu zwalczania nieustannego zagrożenia, jakie dla Faerûnu stanowią nieumarli oraz biesie potwory. Na przestrzeni wieków miała wielu właścicieli, z których większość wiodła krótkie, lecz ekscytujące i pełne akcji życie.
+
+Zdolności wyposażenia:
+– Premia +2 do Klasy Pancerza przeciwko demonom i nieumarłym
+
+Klasa Pancerza: 1 (-2 przeciw broniom siecznym)
+Wymagania:
+– Siła: 12
+
+Waga: 25~
+
+@627  = ~Ten pierścień, wraz z około garścią jemu podobnych, został stworzony jakieś trzysta lat temu przez gnoma złodzieja/iluuzjonistę, którego tożsamość zaginęła w mrokach historii. Pozwala na żądanie rzucić na noszącego kilka zaklęć iluzji. Choć może go używać każdy, jest ulubionym przedmiotem złodziei i magów pragnących oszołomić i wprowadzić w błąd swoich wrogów.
+
+PARAMETRY:
+
+Zdolności ładunków:
+– Rozmycie raz dziennie
+  Specjalne: Premia +3 do Klasy Pancerza i premia +1 do rzutów obronnych
+  Czas działania: 2 tury
+
+– Niewidzialność raz dziennie
+  Czas działania: 24 godziny
+
+– Lustrzane odbicia raz dziennie
+  Specjalne: Tworzy 5 iluzorycznych duplikatów noszącego
+  Czas działania: 13 rund
+
+Wymagania:
+– Inteligencja: 14
+
+Waga: 0~
+
+@629 = ~To skupisko zarodników mykonida. Proszek jest całkowicie suchy, co pozwala zarodnikom przetrwać przez długi czas.
+
+Waga: 1~
+
+@631 = ~To notatnik pustelnika z biblioteki na Wyspie Starej Świątyni. Jest pusty, a wielu stron już brakuje.
+
+Waga: 0~
+
+@633 = ~To dość ciężki głaz.
+
+Waga: 100~
+@635 = ~To kawałek sera. Jak na twój gust, jest nieco zbyt dojrzały.
+
+Waga: 1~
+
+@638 = ~To srebrny widelec i jest... magiczny?
+
+Waga: 0~
+@639 = ~Legendy rzadko wspominają o Srebrnym Widelcu Baldurana, ale to nie oznacza, że nie mógł być on dla niego równie cenny, co jego Nóż do masła. Na trzonku znajduje się mały grawerunek pasujący do tej nazwy, a sam przedmiot wykonano z czystego srebra.
+Ktoś go urzekł, aby mógł być noszony jako magiczne nakrycie głowy. Jesteś niemal pewien, że to nie sprawka Baldurana, ale nigdy się tego nie dowiesz.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Infranadrzeżność do 36 metrów
+– Ochrona przed trafieniami krytycznymi
+
+Waga: 0~
+
+@642 = ~[BG:EE #22139 adapted]To zniszczony Amulet z zielonego kamienia. Głęboko zielony klejnot w centrum amuletu stracił swój blask, ale wciąż kryje w sobie potężną magię.
+
+PARAMETRY:
+
+Zdolności ładunków:
+– Ten amulet zapewnia noszącemu ochronę przed zauroczeniem, zamętem, strachem, dominacją, postrzeganiem pozazmysłowym (ESP), wykryciem charakteru, unieruchomieniem, ogłuszeniem, psioniką, uśpieniem oraz odmóżdżeniem, działając podobnie jak czar maga z 8. poziomu – Czysty Umysł. Jednakże efekt ochronny zużywa jeden ładunek przy każdym aktywowaniu i trwa tylko przez 1 turę.
+
+Waga: 1~
+
+@644 = ~Fiolka z krwią, która ma imitować krew potężnego stworzenia lądowego. Stary Pustelnik stworzył ją ze szczurzej krwi, suchego proszku z zarodników i „całkiem sporej dawki magii”.
+Użyta na portalu zbudowanym przez sahuaginów w sali „Areny”, powinna odwrócić magię potężnego stworzenia morskiego wykorzystaną do stworzenia portalu i, miejmy nadzieję, całkowicie go zniszczyć, uniemożliwiając jego ponowne użycie.
+
+Waga: 1~
+
+@646 = ~To odręczne notatki Starego Pustelnika z biblioteki Starej Świątyni. W tekście brakuje fragmentów, najwyraźniej nadgryzionych przez małe ząbki.
+Ta dotyczy kaplicy na pierwszym piętrze sal Starej Świątyni: „Zbadałem ją dokładnie – nawet poskakałem trochę po ołtarzu, dopóki kapłan nie kazał mi przestać, ale nie zdołałem znaleźć mechanizmu, który otwierałby przejście do –”
+Reszta tekstu zniknęła.
+
+Waga: 0~
+@647 = ~To odręczne notatki Starego Pustelnika z biblioteki Starej Świątyni. W tekście brakuje fragmentów, najwyraźniej nadgryzionych przez małe ząbki.
+Ta zawiera szczegóły na temat Wyspy Starej Świątyni. Udaje ci się wyczytać, że znajduje się ona na Morzu Moonshae oraz że Stara Świątynia straciła swoje znaczenie do tego stopnia, iż nie jest już jasne, kogo tutaj czczono. Szczegóły dotyczące tego, jakie bóstwa mogły to być, są nieczytelne z powodu uszkodzeń.
+
+Waga: 0~
+@649 = ~Ta skóra umbrowego kolosa składa się z chitynowych płyt i twardego naskórka o ciemnobrązowej barwie. Nawet oddzielona od ciała potwora wygląda na grubą i nie do przebicia.
+
+PARAMETRY:
+
+Waga: 25~
+
+@651 = ~To niezwykle wygodne okrycie bioder wykonane z różowego jedwabiu. Słowa „Pas Zagłady” zostały na nim wyhaftowane dość niepewną ręką.
+
+PARAMETRY:
+
+Waga: 1~
+
+@655 = ~To młotek rzemieślniczy, idealny do wszelkiego rodzaju prac ciesielskich.
+
+PARAMETRY:
+
+Obrażenia: 1k4 (obuchowe)
+Opóźnienie: 4
+Rodzaj biegłości: Młot bojowy
+Typ: Jednoręczna
+Wymagania:
+– Siła: 9
+
+Waga: 6~
+
+@662 = ~Te buty były rzekomo noszone przez Baldurana, założyciela Wrót Baldura. Zostały magicznie ulepszone, aby chronić zarówno przed Śliskością, jak i przed zimnymi stopami – wydają się godne sławnego żeglarza, za jakiego go uważano.
+Krąży plotka, że zaprzyjaźniony z Balduranem mag dodał do nich zaklęcie Strefa Czystego Powietrza po tym, jak spędzili całe tygodnie stłoczeni na statku podczas sztormów na pełnym morzu. Nie ma jednak o tym żadnych wzmianek, więc może to być złośliwa plotka rozsiewana przez kolejnego właściciela tych używanych butów.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Odporność na zimno: +15%
+– Odporność na Śliskość
+
+Zdolności ładunków:
+– Strefa Czystego Powietrza raz dziennie
+  Specjalne: Rozprasza wszelkie szkodliwe opary, trujące chmury i gazy
+
+Waga: 4~
+
+@664 = ~Ten klucz otwiera ukryte drzwi na drugim podziemnym poziomie ruin na Wyspie Starej Świątyni.
+
+PARAMETRY:
+
+Waga: 0~
+@666 = ~To róg wykonany z morskiej muszli. Posiada otwór na czubku i został nieco ociosany, dzięki czemu dobrze leży w humanoidalnej dłoni.
+
+PARAMETRY:
+
+Waga: 1~
+
+@668 = ~To stara notatka rytualna. Z powodu zaawansowanego rozkładu z trudem udaje ci się rozpoznać słowa:
+„...jeśli jednak dusza zostanie rozdzielona, uniemożliwi jej to przejście do życia pośmiertnego. Nie tylko pozostanie...
+...w gazowej, niematerialnej formie. Ze względu na swoją ograniczoną percepcję, fragmenty będą...
+...należy zapobiec spotkaniu fragmentów, w przeciwnym razie proces zostanie odwrócony i fragmenty połączą się ponownie, scalając duszę w całość i umożliwiając im...”
+
+PARAMETRY:
+
+Waga: 0~
+//@669 = EE Description in setup.tra
+//@670 = EE Description in setup.tra
+
+@672 = ~Świeca stara jak starożytne ruiny świątyni, ale wciąż zdatna do użytku.
+
+PARAMETRY:
+
+Waga: 1~
+
+@674 = ~To drewno z drzewa suth, znanego z tego, że nie odpryskuje ani nie pęka nawet pod wpływem silnych uderzeń.
+
+PARAMETRY:
+
+Waga: 4~
+
+@678 = ~Ten klucz otwiera cele więzienne w lochach Wieży Nadmorskiej Baldurana. Został ci przekazany, abyś mógł porozmawiać ze strażnikiem wieżowym Shuckiem. Wydaje się, że otwiera on również drzwi do pozostałych cel, ale strażnicy dopilnują, by nie pozostały one długo otwarte.
+Powinieneś zachować ten klucz, jeśli zechcesz później porozmawiać z innymi więźniami.
+
+
+PARAMETRY:
+
+Waga: 0~
+
+@680 = ~To lekki, złoty naszyjnik z klejnotem jako wisiorkiem. Grawerunek głosi: „Melly”.
+
+PARAMETRY:
+
+Waga: 1~
+@687 = ~To skrzynia, którą przekazał ci przemytnik Edgar. Powinna wywabić Nocne Maski, które biorą na cel konkurencyjną operację przemytniczą Czarnego Lotosu.
+
+PARAMETRY:
+
+Waga: 40~
+
+@689 = ~To niezwykle wytworny, odrobinę wytrawny zapach męski, wielce poszukiwany w Calimshanie.
+Zazwyczaj bywa bardzo drogi. No, chyba że nie kupuje się go od przemytników, rzecz jasna.
+
+PARAMETRY:
+
+Waga: 0~
+
+@693 = ~To niezwykle ciężka beczka. Jest zamknięta, ale w kadłubie wywiercono kilka mniejszych otworów, jakby zawartość potrzebowała dobrej wentylacji.
+
+PARAMETRY:
+
+Waga: 120~
+
+@697 = ~To szkatułka, którą dał ci Holger, abyś przekazał ją Bruce'owi – żołnierzowi Płomiennej Pięści w pałacu.
+Gdy nią potrząsasz, słyszysz brzęk monet. Masz wrażenie, że samo pudełko również jest całkiem wartościowe.
+
+PARAMETRY:
+
+Waga: 0~
+
+@699 = ~To stara moneta, której pochodzenie jest ci nieznane. Wygląda na to, że przeleżała w studni przez bardzo długi czas.
+
+PARAMETRY:
+
+Waga: 0~
+
+
+@50001 = ~Ten amulet z najczystszego srebra został pobłogosławiony przez kapłanów Dziewicy z Księżyca, aby odpędzać likantropy oraz istoty nieumarłe.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Klasa Pancerza: +2 przeciwko likantropom i nieumarłym
+– Rzuty obronne: +2 przeciwko likantropom i nieumarłym
+
+Waga: 3~
+@50003 = ~Ten srebrny kostur został konsekrowany Dziewicy z Księżyca i jest wysoce skuteczny przeciwko likantropom oraz nieumarłym.
+
+PARAMETRY:
+
+Traki: +1, +3 przeciwko likantropom i nieumarłym
+Obrażenia: 1k6+2, +4 przeciwko likantropom i nieumarłym
+Typ obrażeń: Obuchowe
+Opóźnienie: 6
+Rodzaj biegłości: Cep bojowy/Gwiazda zaranna
+Typ: Jednoręczna
+Wymagania:
+– Siła: 13
+
+Waga: 13~
+
+@50005 = ~Ten pocisk do procy został nasączony magiczną substancją znaną jako księżycowy ogień. W rezultacie stał się bardziej celny. Przy trafieniu pocisk wyzwala falę paraliżującego zimna.
+
+PARAMETRY:
+
+Traki: +1
+Obrażenia: 1k4+2, +2 od zimna
+Typ obrażeń: Pociski
+Wyrzutnia: Proca
+
+Waga: 0~
+
+@50007 = ~Twarde płyty chroniące umbrowego kolosa są stosunkowo łatwe do przerobienia na humanoidalny pancerz. Ta ciemna zbroja została przekuta na zbroję płytową dla <CHARNAME> przez płatnerza z Wieży Nadmorskiej.
+
+Rzemiosło jest doskonałej jakości, a pancerz mógłby ewentualnie zostać urzeczony przez odpowiednio potężnego maga.
+
+PARAMETRY:
+
+Klasa Pancerza: 2 (-2 przeciw broniom siecznym, 1 przeciw broniom kłutym i pociskom)
+
+Wymagania:
+– Siła: 12
+
+Waga: 40~
+@50009 = ~Twarde płyty chroniące umbrowego kolosa są stosunkowo łatwe do przerobienia na humanoidalny pancerz. Ta ciemna zbroja została przekuta na zbroję płytową dla <CHARNAME> przez płatnerza z Wieży Nadmorskiej, a następnie urzeczona przez wieżowego maga, co dodatkowo zwiększyło jej właściwości ochronne.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Odporność na zamęt i odmóżdżenie
+
+Klasa Pancerza: 1 (-3 przeciw broniom siecznym, 0 przeciw broniom kłutym i pociskom)
+
+Wymagania:
+– Siła: 12
+
+Waga: 40~
+
+@50011 = ~Ten wytrzymały kij został wyciosany z suth – najtwardszego znanego drewna w Faerûnie. Jako taki nie musi być nawet okuty żelazem, by zachować skuteczność w walce. Nałożone urzeczenie przenosi część tej niezłomności na użytkownika, dopóki trzyma on broń w dłoni.
+Ten kij to dumny owoc pracy wieżowej podszypiornej, która postanowiła spróbować swoich sił w rzemiośle wojennym. Broń jest przednia, ale kreatywne nazewnictwo najwyraźniej nie jest mocną stroną rzemieślniczki.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Użytkownik znajduje się pod wpływem czaru Kora (bazowa Klasa Pancerza: 3, +1 do wszystkich rzutów obronnych z wyjątkiem czarów)
+
+Traki: +2
+Obrażenia: 1k6+2 (obuchowe)
+Opóźnienie: 2
+Rodzaj biegłości: Kij
+Typ: Dwuręczna
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+
+@50013 = ~Ta wytrzymała włócznia posiada solidne drzewce wyciosane z suth – najtwardszego znanego drewna w Faerûnie. Nałożone urzeczenie przenosi część tej niezłomności na użytkownika, dopóki włócznia znajduje się w jego dłoni.
+Ta broń to dumny rezultat pracy wieżowej podszypiornej, która wypróbowała swoje siły w rzemiośle, oraz wieżowego płatnerza, który przekształcił jej dzieło we włócznię.
+
+PARAMETRY:
+
+Zdolności wyposażenia:
+– Użytkownik znajduje się pod wpływem czaru Kora (bazowa Klasa Pancerza: 3, +1 do wszystkich rzutów obronnych z wyjątkiem czarów)
+
+Traki: +2
+Obrażenia: 1k6+2 (kłute)
+Opóźnienie: 4
+Rodzaj biegłości: Włócznia
+Typ: Dwuręczna
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+
+@50014 = ~[#17054 adjusted]Pierścień to niewielka obrączka z cennego metalu, służąca za ozdobę. Na niektóre rzadkie pierścienie nałożono urzeczenia nadające im rozmaite magiczne właściwości. Przedmioty te są wielce poszukiwane, zwłaszcza przez ludzi parających się profesją poszukiwacza przygód.
+
+To jeden ze złotych pierścieni znalezionych przy ofiarach spisku sobowtórniaków.
+
+PARAMETRY:
+
+Waga: 0~

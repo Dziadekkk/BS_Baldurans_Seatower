@@ -1,0 +1,32 @@
+@8000 = ~Złoty dysk~
+//@8001 = ~Złoty dysk~
+@8002 = ~Na pierwszy rzut oka ten złoty dysk przypomina ogromną monetę, ale jest zdecydowanie zbyt wielki, by mógł służyć za starożytną walutę. Na jego awersie rozpoznajesz wytłoczony pentagram. Przedmiot wygląda na liczący setki lat i wydaje się być niezwykle cenny.~
+//@8003 = ~Na pierwszy rzut oka ten złoty dysk przypomina ogromną monetę, ale jest zdecydowanie zbyt wielki, by mógł służyć za starożytną walutę. Na jego awersie rozpoznajesz wytłoczony pentagram. Przedmiot wygląda na liczący setki lat i wydaje się być niezwykle cenny.~
+@8004 = ~Miecz długi +3~
+@8005 = ~Miecze te nazywa się zwykle mieczami obusiecznymi, wojennymi lub wojskowymi. Broń brzęczy cicho w twoich dłoniach, co świadczy o jej magicznych właściwościach.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: długi miecz
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 2~
+@8006 = ~Bezbłędna teleportacja~
+@8100 = ~Otiag~
+@8101 = ~Otiag~
+@8200 = ~Zabierasz ostatnią monetę i czujesz, że jakaś pieczęć właśnie została złamana.~
+@8201 = ~Napięcie w pomieszczeniu gwałtownie rośnie. Masz poważne wątpliwości, czy zabranie ostatniej monety to dobry pomysł.~
+@8203 = ~Z tej odległości nie potrafisz niczego odczytać.~
+@8204 = ~Starożytne runy pośrodku tego heptagramu głoszą: 
+„Siedem run i dysków świętych
+sześć – do odnalezienia
+na krawędziach do położenia,
+by siódmą całość spętać”.~
+@8205 = ~Ten wielki heptagram pokryty jest tajemniczymi runami, których nie potrafisz rozszyfrować.~

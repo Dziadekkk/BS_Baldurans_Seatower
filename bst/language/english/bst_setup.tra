@@ -2609,13 +2609,13 @@ Turns out "Binky" was a Doomsayer. I guess it didn't perceive the girl as a dist
 @2662 = ~Let me stow this away so the guard idiots don't see it when they come in here.~
 @2663 = ~In case you stumble upon good liqueur, I would be interested in three bottles. It makes the leather go softer—and it gives me a better smell while working on it. It doesn't matter what, just something strong and more exquisite than your ordinary bottle of red wine.~
 @2664 = ~"Awful guards"?~
-@2665 = ~You got past those awful guards all right?~
-@2666 = ~I hope you don't think you could just give me some gold and that's it. I need to treat my skins properly or they'll rot! I have orders to fulfill!~
-@2667 = ~Then what do you want?~
-@2668 = ~I didn't mean it as a threat. I really think you'd regret it.~
-@2669 = ~*sigh*~
-@2670 = ~Well, the *least* you could do is compensate me for my losses.~
-@2671 = ~No chitchat, please. I am here to buy stuff.~
+@2665 = ~Przeszedłeś bez problemów obok tych okropnych strażników?~
+@2666 = ~Mam nadzieję, że nie myślisz, że możesz mi po prostu dać trochę złota i po sprawie. Muszę odpowiednio wyprawić te skóry, inaczej zgniją! Mam zamówienia do zrealizowania!~
+@2667 = ~W takim razie czego chcesz?~
+@2668 = ~Nie miałem zamiaru ci grozić. Naprawdę uważam, że byś tego żałował.~
+@2669 = ~*wzdycha*~
+@2670 = ~Cóż, *najmniejsze*, co mógłbyś zrobić, to zrekompensować mi moje straty.~
+@2671 = ~Bez zbędnych pogaduszek, proszę. Jestem tu, żeby kupować rzeczy.~
 
 // Captain Dungarth
 @2700 = ~Yes?~ [BSSTGC]
